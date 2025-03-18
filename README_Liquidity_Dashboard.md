@@ -31,7 +31,7 @@ streamlit run liquidity_dashboard.py
 ```
 
 ## 🔗 Live Demo (Optional)
-[https://yourusername-liquidity-risk-dashboard.streamlit.app](https://yourusername-liquidity-risk-dashboard.streamlit.app)
+[https://yourusername-liquidity-risk-dashboard.streamlit.app](https://liquidity-risk-dashboard-k5guk7kjf7ccdvkjcwkzoz.streamlit.app/)
 
 ## 📌 Author Note
 
