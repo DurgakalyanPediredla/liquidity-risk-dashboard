@@ -11,7 +11,7 @@ A professional-grade liquidity risk management dashboard built using Python and 
 - 🔮 LCR Forecasting using ARIMA Model
 - ✅ Regulatory Buffer Analysis: Unencumbered Assets & Credit Lines
 - 📉 Liquidity Alerts & Commentary Engine
-- 📤 Export Reports: CSV and EBA Excel Format
+- 📤 Export Reports: CSV Format
 - 🧾 Breach Summary Log for audit and compliance reporting
 
 ## 📂 File Structure
@@ -19,7 +19,6 @@ A professional-grade liquidity risk management dashboard built using Python and 
 - `liquidity_dashboard.py`: Streamlit dashboard source code
 - `requirements.txt`: Required Python packages
 - `Liquidity_Report.csv`: Sample report export
-- `Liquidity_Report_EBA_Format.xlsx`: EBA-style Excel output
 - `LCR_Breach_Log.csv`: LCR breach summary
 
 ## 🚀 Deployment
